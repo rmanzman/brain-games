@@ -27,7 +27,7 @@ const isEven = () => {
       return console.log(`'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, ${userName}!`);
     } else if (answer === false && rndInt % 2 === 0) {
       console.log('Your answer: no');
-      return console.log(`Let's try again, ${userName}!`);
+      return console.log(`'no' is wrong answer ;(. Correct answer was 'yes'.\nLet's try again, ${userName}!`);
     } else if (answer === false && rndInt % 2 !== 0) {
       console.log('Your answer: no');
       console.log('Correct!');
