@@ -2,7 +2,7 @@ import commonGameEngine from '../src/index.js';
 import randomIntFromInterval from '../src/randomIntFromInterval.js';
 
 const gcd = () => {
-  const taskForCalc = 'Find the greatest common divisor of given numbers.';
+  const taskForGcd = 'Find the greatest common divisor of given numbers.';
 
   const gameEngineForGcd = () => {
     let rndNum1 = randomIntFromInterval(1, 100);
@@ -22,7 +22,7 @@ const gcd = () => {
     return [question, (result).toString()];
   };
 
-  commonGameEngine(taskForCalc, gameEngineForGcd);
+  commonGameEngine(taskForGcd, gameEngineForGcd);
 };
 
 export default gcd;
