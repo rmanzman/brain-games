@@ -10,7 +10,7 @@ const gameEngine = (task, game) => {
 
   for (let i = 0; i < 3; i += 1) {
     const questionAndResult = game();
-    console.log('Question: ', questionAndResult[0]);
+    console.log('Question:', questionAndResult[0]);
     const userAnswer = readlineSync.question('Your answer: ');
     const rightAnswer = questionAndResult[1];
     if (userAnswer === rightAnswer) {
