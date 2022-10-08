@@ -15,11 +15,11 @@ const progr = () => {
     for (let i = 0; arr.length <= lengthOfProg; i += 1) {
       arr.push(arr[i] + stepOfProg);
     }
+    const result = (arr[indexForDots]).toString();
     arr[indexForDots] = '..';
     const progString = arr.join(' ');
-    const result = (stepOfProg).toString();
 
-    const question = `${progString}`;
+    const question = progString;
 
     return [question, result];
   };
