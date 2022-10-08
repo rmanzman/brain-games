@@ -11,3 +11,5 @@ Brain-gcd game preview
 [![asciicast](https://asciinema.org/a/0ZF9E9zRl5L7Kl2ryca6AXEib.svg)](https://asciinema.org/a/0ZF9E9zRl5L7Kl2ryca6AXEib)
 Brain-progression game preview
 [![asciicast](https://asciinema.org/a/DBq25X52G2ulY8xqgYk0COHXG.svg)](https://asciinema.org/a/DBq25X52G2ulY8xqgYk0COHXG)
+Brain-prime game preview
+[![asciicast](https://asciinema.org/a/YDcAe8hQAsdcxkWSYiNuWLCE7.svg)](https://asciinema.org/a/YDcAe8hQAsdcxkWSYiNuWLCE7)
