@@ -47,20 +47,20 @@ brain-prime
 <br>
 
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/rainbow/cosmic-brain.gif" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=20&duration=3000&pause=1000&color=2300FF&background=FF000000&center=true&vCenter=true&width=250&height=22&lines=Brain-even+game+preview)](https://git.io/typing-svg)
-[![asciicast](https://asciinema.org/a/q5owqqjZYy8xVcG2cKCMANro2.svg)](https://asciinema.org/a/q5owqqjZYy8xVcG2cKCMANro2)
+[![asciicast](https://asciinema.org/a/bUWvbOCBkqs613WuDaMhklyix.svg)](https://asciinema.org/a/bUWvbOCBkqs613WuDaMhklyix)
 <br>
 <br>
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/rainbow/cosmic-brain.gif" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=20&duration=3000&pause=1000&color=2300FF&background=FF000000&center=true&vCenter=true&width=250&height=22&lines=Brain-calc+game+preview)](https://git.io/typing-svg)
-[![asciicast](https://asciinema.org/a/Uw1cKjoLLPuSC2HOMjvEMCDyj.svg)](https://asciinema.org/a/Uw1cKjoLLPuSC2HOMjvEMCDyj)
+[![asciicast](https://asciinema.org/a/8Goifx0lyr5TrGuXYinbEO30z.svg)](https://asciinema.org/a/8Goifx0lyr5TrGuXYinbEO30z)
 <br>
 <br>
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/rainbow/cosmic-brain.gif" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=20&duration=3000&pause=1000&color=2300FF&background=FF000000&center=true&vCenter=true&width=250&height=22&lines=Brain-gcd+game+preview)](https://git.io/typing-svg)
-[![asciicast](https://asciinema.org/a/0ZF9E9zRl5L7Kl2ryca6AXEib.svg)](https://asciinema.org/a/0ZF9E9zRl5L7Kl2ryca6AXEib)
+[![asciicast](https://asciinema.org/a/2switgZev8Pwlglhyvav7k7t5.svg)](https://asciinema.org/a/2switgZev8Pwlglhyvav7k7t5)
 <br>
 <br>
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/rainbow/cosmic-brain.gif" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=20&duration=3000&pause=1000&color=2300FF&background=FF000000&center=true&vCenter=true&width=325&height=22&lines=Brain-progression+game+preview)](https://git.io/typing-svg)
-[![asciicast](https://asciinema.org/a/DBq25X52G2ulY8xqgYk0COHXG.svg)](https://asciinema.org/a/DBq25X52G2ulY8xqgYk0COHXG)
+[![asciicast](https://asciinema.org/a/iRyopbFmZ43sDr8EQHoTFvaku.svg)](https://asciinema.org/a/iRyopbFmZ43sDr8EQHoTFvaku)
 <br>
 <br>
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/rainbow/cosmic-brain.gif" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=20&duration=3000&pause=1000&color=2300FF&background=FF000000&center=true&vCenter=true&width=270&height=22&lines=Brain-prime+game+preview)](https://git.io/typing-svg)
-[![asciicast](https://asciinema.org/a/YDcAe8hQAsdcxkWSYiNuWLCE7.svg)](https://asciinema.org/a/YDcAe8hQAsdcxkWSYiNuWLCE7)
+[![asciicast](https://asciinema.org/a/1NLnAE2s9Xbiwr6LZpSOUaZ7J.svg)](https://asciinema.org/a/1NLnAE2s9Xbiwr6LZpSOUaZ7J)
