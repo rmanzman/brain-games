@@ -5,19 +5,21 @@ const gcd = () => {
   const taskForGcd = 'Find the greatest common divisor of given numbers.';
 
   const brainComDiv = () => {
-    let rndNum1 = rndNumFromInt(1, 50);
-    let rndNum2 = rndNumFromInt(1, 25);
+    const rndNum1 = rndNumFromInt(1, 50);
+    const rndNum2 = rndNumFromInt(1, 25);
 
     const question = `${rndNum1} ${rndNum2}`;
 
+    let x = rndNum1;
+    let y = rndNum2;
     let result = '';
-    while (rndNum1 !== 0 && rndNum2 !== 0) {
-      if (rndNum1 > rndNum2) {
-        rndNum1 %= rndNum2;
+    while (x !== 0 && y !== 0) {
+      if (x > y) {
+        x %= y;
       } else {
-        rndNum2 %= rndNum1;
+        y %= x;
       }
-      result = (rndNum1 + rndNum2).toString();
+      result = (x + y).toString();
     }
     return [question, result];
   };
