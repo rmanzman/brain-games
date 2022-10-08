@@ -1,12 +1,12 @@
-import commonGameEngine from '../src/index.js';
-import randomIntFromInterval from '../src/randomIntFromInterval.js';
+import gameEngine from '../src/index.js';
+import rndNumFromInt from '../src/rndNumFromInt.js';
 
 const gcd = () => {
   const taskForGcd = 'Find the greatest common divisor of given numbers.';
 
-  const gameEngineForGcd = () => {
-    let rndNum1 = randomIntFromInterval(1, 100);
-    let rndNum2 = randomIntFromInterval(1, 100);
+  const brainComDiv = () => {
+    let rndNum1 = rndNumFromInt(1, 100);
+    let rndNum2 = rndNumFromInt(1, 100);
 
     const question = `${rndNum1} ${rndNum2}`;
 
@@ -17,12 +17,12 @@ const gcd = () => {
       } else {
         rndNum2 %= rndNum1;
       }
-      result = rndNum1 + rndNum2;
+      result = (rndNum1 + rndNum2).toString();
     }
-    return [question, (result).toString()];
+    return [question, result];
   };
 
-  commonGameEngine(taskForGcd, gameEngineForGcd);
+  gameEngine(taskForGcd, brainComDiv);
 };
 
 export default gcd;
