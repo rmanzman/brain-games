@@ -5,8 +5,8 @@ const gcd = () => {
   const taskForGcd = 'Find the greatest common divisor of given numbers.';
 
   const brainComDiv = () => {
-    let rndNum1 = rndNumFromInt(1, 100);
-    let rndNum2 = rndNumFromInt(1, 100);
+    let rndNum1 = rndNumFromInt(1, 50);
+    let rndNum2 = rndNumFromInt(1, 25);
 
     const question = `${rndNum1} ${rndNum2}`;
 
