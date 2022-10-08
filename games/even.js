@@ -7,7 +7,7 @@ const even = () => {
   const brainEven = () => {
     const rndNum = rndNumFromInt(1, 50);
 
-    const question = `${rndNum}`;
+    const question = rndNum;
 
     let result = '';
     if (rndNum % 2 === 0) {
