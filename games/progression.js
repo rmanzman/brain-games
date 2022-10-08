@@ -5,10 +5,10 @@ const progr = () => {
   const taskForProgr = 'What number is missing in the progression?';
 
   const brainProgr = () => {
-    const lengthOfProg = rndNumFromInt(6, 14);
+    const lengthOfProg = rndNumFromInt(10, 20);
     const firstNumOfProg = rndNumFromInt(1, 10);
     const stepOfProg = rndNumFromInt(1, 5);
-    const indexForDots = rndNumFromInt(1, 10);
+    const indexForDots = rndNumFromInt(0, 10);
 
     const arr = [];
     arr.push(firstNumOfProg);
