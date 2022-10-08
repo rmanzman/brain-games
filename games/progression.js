@@ -1,14 +1,14 @@
-import commonGameEngine from '../src/index.js';
-import randomIntFromInterval from '../src/randomIntFromInterval.js';
+import gameEngine from '../src/index.js';
+import rndNumFromInt from '../src/rndNumFromInt.js';
 
-const progression = () => {
+const progr = () => {
   const taskForProgr = 'What number is missing in the progression?';
 
-  const gameEngineForProgr = () => {
-    const lengthOfProg = randomIntFromInterval(6, 14);
-    const firstNumOfProg = randomIntFromInterval(1, 10);
-    const stepOfProg = randomIntFromInterval(1, 5);
-    const indexForDots = randomIntFromInterval(1, 10);
+  const brainProgr = () => {
+    const lengthOfProg = rndNumFromInt(6, 14);
+    const firstNumOfProg = rndNumFromInt(1, 10);
+    const stepOfProg = rndNumFromInt(1, 5);
+    const indexForDots = rndNumFromInt(1, 10);
 
     const arr = [];
     arr.push(firstNumOfProg);
@@ -17,14 +17,14 @@ const progression = () => {
     }
     arr[indexForDots] = '..';
     const progString = arr.join(' ');
-    const result = stepOfProg;
+    const result = (stepOfProg).toString();
 
     const question = `${progString}`;
 
-    return [question, (result).toString()];
+    return [question, result];
   };
 
-  commonGameEngine(taskForProgr, gameEngineForProgr);
+  gameEngine(taskForProgr, brainProgr);
 };
 
-export default progression;
+export default progr;
