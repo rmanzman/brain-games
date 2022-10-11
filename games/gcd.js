@@ -19,6 +19,7 @@ const gcd = () => {
       }
       result = (rndNum1 + rndNum2).toString();
     }
+
     return [question, result];
   };
 
