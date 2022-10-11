@@ -7,14 +7,10 @@ const even = () => {
   const brainEven = () => {
     const rndNum = rndNumFromInt(1, 50);
 
-    const question = rndNum;
+    const question = `${rndNum}`;
 
     let result = '';
-    if (rndNum % 2 === 0) {
-      result = 'yes';
-    } else if (rndNum % 2 !== 0) {
-      result = 'no';
-    }
+    result = rndNum % 2 === 0 ? 'yes' : 'no';
 
     return [question, result];
   };
