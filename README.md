@@ -2,22 +2,39 @@
 [![Actions Status](https://github.com/rmanzman/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/rmanzman/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/5d021fa64382d03d0e2b/maintainability)](https://codeclimate.com/github/rmanzman/frontend-project-44/maintainability)
 
-<h2 align="center">Hi there, I'm <a href="https://ru.hexlet.io/u/romankraizman" target="_blank">Roman</a>
-<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/cat-slide.gif" height="40"/></h2>
-<h3 align="center">And Welcome to the Brain Games!</h3>
-<h4 align="center">This is my first JS-project on Hexlet.</h4><br>
+<h2 align="center">Welcome to the Brain Games!</h3> 
 
-<p><font size="4"><b>Description:</b></font></p>
-<p><font size="3">The project includes five console games:</p>
-<p>• <i>Brain-even</i> - determining an even or odd number</p>
-<p>• <i>Brain-calc</i> - сalculating of result for an expression</p>
-<p>• <i>Brain-gcd</i> - finding of greatest common divisor for given numbers</p>
-<p>• <i>Brain-progression</i> - searching for missing number in progression</p>
-<p>• <i>Brain-prime</i> - checking for a prime number</font></p>
-<br>
-<br>
+<h4>Description:</h4>
+<p>The project includes five console games:</p>
+<p><li><i>Brain-even</i> - determining an even or odd number</p>
+<p><li><i>Brain-calc</i> - сalculating of result for an expression</p>
+<p><li><i>Brain-gcd</i> - finding of greatest common divisor for given numbers</p>
+<p><li><i>Brain-progression</i> - searching for missing number in progression</p>
+<p><li><i>Brain-prime</i> - checking for a prime number</p>
 
-<font size="3"><b>To install, simply use two steps:</b></font>
+<h4>System requirements and Installation guide:</h4>
+<p>Make sure you have <code>Node.js</code> and <code>npm</code> installed.
+To see if you already have Node.js and npm installed and check the installed version, run the following commands:</p>
+```shell
+node -v
+npm -v
+```
+<p>One of the following versions of Node.js must be installed to run npm:</p>
+<code>12.x.x >= 12.13.0</code><br>
+<code>14.x.x >= 14.15.0</code><br>
+<code>16.0.0 or higher</code><br>
+<br>
+<p>If you are using Ubuntu based distributions, to install Node.js v18.x, run the following commands:</p>
+```shell
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
+sudo apt-get install -y nodejs
+```
+<p>To install the latest version of npm, run the following command:</p>
+```shell
+npm install -g npm
+```
+
+<p>And finally, to install "Brain-games", simply use two steps:</p>
 ```shell
 git clone git@github.com:rmanzman/frontend-project-44.git
 ```
@@ -25,7 +42,7 @@ git clone git@github.com:rmanzman/frontend-project-44.git
 npm link
 ```
 
-<font size="3"><b>To enjoy some fun, simply run one of this games:</b></font>
+<p>To enjoy some fun, simply run one of this games:</p>
 ```shell
 brain-even
 ```
@@ -41,10 +58,8 @@ brain-progression
 ```shell
 brain-prime
 ```
-<br>
-<font size="3"><b>If you are still in doubt, just watch the exciting demo:</b></font>
-<br>
-<br>
+
+<h4>If you are still in doubt, just watch the exciting demo:</h4>
 
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/rainbow/cosmic-brain.gif" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=20&duration=3000&pause=1000&color=2300FF&background=FF000000&center=true&vCenter=true&width=250&height=22&lines=Brain-even+game+preview)](https://git.io/typing-svg)
 [![asciicast](https://asciinema.org/a/bUWvbOCBkqs613WuDaMhklyix.svg)](https://asciinema.org/a/bUWvbOCBkqs613WuDaMhklyix)
