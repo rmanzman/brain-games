@@ -22,9 +22,12 @@ npm -v
 ```
 
 <p>One of the following versions of Node.js must be installed to run npm:</p>
-<code>12.x.x >= 12.13.0</code><br>
-<code>14.x.x >= 14.15.0</code><br>
-<code>16.0.0 or higher</code><br>
+
+```properties
+12.x.x >= 12.13.0
+14.x.x >= 14.15.0
+16.0.0 or higher
+```
 
 <p>If you are using Ubuntu based distributions, to install Node.js v18.x, run the following commands:</p>
 
