@@ -15,9 +15,11 @@
 <h3>System requirements and Installation guide:</h3>
 <p>Make sure you have <code>Node.js</code> and <code>npm</code> installed.
 To see if you already have Node.js and npm installed and check the installed version, run the following commands:</p>
-```bash
+```shell
+
 node -v
 npm -v
+
 ```
 <p>One of the following versions of Node.js must be installed to run npm:</p>
 <code>12.x.x >= 12.13.0</code><br>
@@ -25,19 +27,25 @@ npm -v
 <code>16.0.0 or higher</code><br>
 
 <p>If you are using Ubuntu based distributions, to install Node.js v18.x, run the following commands:</p>
-```bash
+```shell
+
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs
+
 ```
 <p>To install the latest version of npm, run the following command:</p>
-```bash
+```shell
+
 npm install -g npm
+
 ```
 
 <p>And finally, to install "Brain-games", simply use two steps:</p>
-```bash
+```shell
+
 git clone git@github.com:rmanzman/frontend-project-44.git
 npm link
+
 ```
 
 <p>To enjoy some fun, simply run one of this games:</p>
