@@ -39,17 +39,18 @@ sudo apt-get install -y nodejs
 <p>To install the latest version of npm, run the following command:</p>
 
 ```shell
-npm install -g npm
+sudo npm install -g npm
 ```
 
-<p>And finally, to install "Brain-games", simply use two steps:</p>
+<p>And finally, to install "Brain-games", simply use:</p>
 
 ```shell
 git clone git@github.com:rmanzman/frontend-project-44.git
-npm link
+cd frontend-project-44
+sudo npm link
 ```
 
-<p>To enjoy some fun, simply run one of this games:</p>
+<p>To enjoy some fun, choose your game and run one of the following commands:</p>
 
 ```shell
 brain-even
@@ -67,7 +68,7 @@ brain-progression
 brain-prime
 ```
 
-<h3>If you are still in doubt, just watch the exciting demo:</h3>
+<h3>If you are still in doubt, just watch the exciting gameplay:</h3>
 
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/rainbow/cosmic-brain.gif" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=20&duration=3000&pause=1000&color=2300FF&background=FF000000&center=true&vCenter=true&width=250&height=22&lines=Brain-even+game+preview)](https://git.io/typing-svg)
 [![asciicast](https://asciinema.org/a/bUWvbOCBkqs613WuDaMhklyix.svg)](https://asciinema.org/a/bUWvbOCBkqs613WuDaMhklyix)
