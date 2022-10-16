@@ -47,7 +47,7 @@ sudo npm install -g npm
 ```shell
 git clone https://github.com/rmanzman/frontend-project-44.git
 npm ci
-cd frontend-project-44
+cd *project folder name*
 npm link
 ```
 
