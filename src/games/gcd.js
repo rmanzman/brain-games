@@ -12,7 +12,7 @@ const getGcd = (rndNum1, rndNum2) => {
   return undefined;
 };
 
-const questionAndAnswer = () => {
+const getQuestionAndAnswer = () => {
   const rndNum1 = rndNumFromInt(1, 100);
   const rndNum2 = rndNumFromInt(1, 100);
 
@@ -24,5 +24,5 @@ const questionAndAnswer = () => {
 };
 
 export default () => {
-  gameEngine(description, questionAndAnswer);
+  gameEngine(description, getQuestionAndAnswer);
 };
