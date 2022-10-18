@@ -12,7 +12,7 @@ const isPrime = (num) => {
   return true;
 };
 
-const questionAndAnswer = () => {
+const getQuestionAndAnswer = () => {
   const num = rndNumFromInt(2, 500);
 
   const question = `${num}`;
@@ -23,5 +23,5 @@ const questionAndAnswer = () => {
 };
 
 export default () => {
-  gameEngine(description, questionAndAnswer);
+  gameEngine(description, getQuestionAndAnswer);
 };
