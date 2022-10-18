@@ -5,7 +5,7 @@ const description = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 const isEven = (rndNum) => rndNum % 2 === 0;
 
-const questionAndAnswer = () => {
+const getQuestionAndAnswer = () => {
   const rndNum = rndNumFromInt(1, 50);
 
   const question = `${rndNum}`;
@@ -16,5 +16,5 @@ const questionAndAnswer = () => {
 };
 
 export default () => {
-  gameEngine(description, questionAndAnswer);
+  gameEngine(description, getQuestionAndAnswer);
 };
