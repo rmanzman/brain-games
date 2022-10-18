@@ -17,7 +17,7 @@ const getProgression = () => {
   return arr;
 };
 
-const questionAndAnswer = () => {
+const getQuestionAndAnswer = () => {
   const progression = getProgression();
   const indexForDots = rndNumFromInt(0, 10);
 
@@ -29,5 +29,5 @@ const questionAndAnswer = () => {
 };
 
 export default () => {
-  gameEngine(description, questionAndAnswer);
+  gameEngine(description, getQuestionAndAnswer);
 };
