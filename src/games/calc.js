@@ -22,7 +22,7 @@ const calculate = (rndNum1, rndNum2, rndMathSign) => {
   return String(result);
 };
 
-const questionAndAnswer = () => {
+const getQuestionAndAnswer = () => {
   const rndNum1 = rndNumFromInt(1, 10);
   const rndNum2 = rndNumFromInt(1, 30);
 
@@ -37,5 +37,5 @@ const questionAndAnswer = () => {
 };
 
 export default () => {
-  gameEngine(description, questionAndAnswer);
+  gameEngine(description, getQuestionAndAnswer);
 };
