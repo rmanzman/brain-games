@@ -89,7 +89,3 @@ brain-prime
 <br>
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/rainbow/cosmic-brain.gif" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=20&duration=3000&pause=1000&color=2300FF&background=FF000000&center=true&vCenter=true&width=270&height=22&lines=Brain-prime+game+preview)](https://git.io/typing-svg)
 [![asciicast](https://asciinema.org/a/1NLnAE2s9Xbiwr6LZpSOUaZ7J.svg)](https://asciinema.org/a/1NLnAE2s9Xbiwr6LZpSOUaZ7J)
-
-```js script
-import 'https://asciinema.org/a/QmVeSakubDwpVMN5lX0N3KyM7.js';
-```
