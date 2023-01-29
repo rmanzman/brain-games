@@ -45,9 +45,9 @@ sudo npm install -g npm
 <p>And finally, to install "Brain-games", simply use:</p>
 
 ```shell
-git clone https://github.com/rmanzman/frontend-project-44.git
+git clone https://github.com/rmanzman/brain-games.git
+cd brain-games
 npm ci
-cd *project folder name*
 npm link
 ```
 
