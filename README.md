@@ -1,18 +1,18 @@
-### Hexlet tests and linter status:
+### Tests, linter and Codeclimate status:
 [![Actions Status](https://github.com/rmanzman/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/rmanzman/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/5d021fa64382d03d0e2b/maintainability)](https://codeclimate.com/github/rmanzman/frontend-project-44/maintainability)
 
 <h2 align="center">Welcome to the Brain Games!</h2> 
 
-<h3>Description:</h3>
-<p>The project includes five console games:</p>
+### Description:
+«Brain Games» is a set of five console games built on the principle of popular mobile brain-boosting apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be completed.
 <p><li><i>Brain-even</i> - determining an even or odd number</li></p>
 <p><li><i>Brain-calc</i> - сalculating of result for an expression</li></p>
 <p><li><i>Brain-gcd</i> - finding of greatest common divisor for given numbers</li></p>
 <p><li><i>Brain-progression</i> - searching for missing number in progression</li></p>
 <p><li><i>Brain-prime</i> - checking for a prime number</li></p>
 
-<h3>System requirements and Installation guide:</h3>
+### System requirements and Installation guide:
 <p>Make sure you have <code>Node.js</code> and <code>npm</code> installed.
 To see if you already have Node.js and npm installed and check the installed version, run the following commands:</p>
 
@@ -69,7 +69,7 @@ brain-progression
 brain-prime
 ```
 
-<h3>If you are still in doubt, just watch the exciting gameplay:</h3>
+### If you are still in doubt, just watch the exciting gameplay:
 
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/rainbow/cosmic-brain.gif" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=20&duration=3000&pause=1000&color=2300FF&background=FF000000&center=true&vCenter=true&width=250&height=22&lines=Brain-even+game+preview)](https://git.io/typing-svg)
 [![asciicast](https://asciinema.org/a/bUWvbOCBkqs613WuDaMhklyix.svg)](https://asciinema.org/a/bUWvbOCBkqs613WuDaMhklyix)
