@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmanzman/frontend-project-44.git"
+    "url": "git+https://github.com/rmanzman/brain-games.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rmanzman/frontend-project-44/issues"
+    "url": "https://github.com/rmanzman/brain-games/issues"
   },
-  "homepage": "https://github.com/rmanzman/frontend-project-44#readme",
+  "homepage": "https://github.com/rmanzman/brain-games#readme",
   "dependencies": {
     "make": "^0.8.1",
     "readline-sync": "^1.4.10"
