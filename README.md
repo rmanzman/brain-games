@@ -1,5 +1,5 @@
 ### Tests, linter and Codeclimate status:
-[![Actions Status](https://github.com/rmanzman/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/rmanzman/frontend-project-44/actions)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rmanzman/brain-games/hexlet-check.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/5d021fa64382d03d0e2b/maintainability)](https://codeclimate.com/github/rmanzman/frontend-project-44/maintainability)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rmanzman/brain-games)
 
