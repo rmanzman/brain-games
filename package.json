@@ -1,8 +1,8 @@
 {
   "name": "@hexlet/code",
-  "type": "module",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/rmanzman/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/rmanzman/frontend-project-44/actions)",
+  "description": "Brain Games is a set of five CLI-games",
+  "type": "module",
   "main": "index.js",
   "bin": {
     "brain-games": "bin/brain-games.js",
