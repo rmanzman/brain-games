@@ -3,15 +3,12 @@ import rndNumFromInt from '../helper.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 
-const isEven = (rndNum) => rndNum % 2 === 0;
+const isEven = (num) => (num % 2 === 0 ? 'yes' : 'no');
 
 const getQuestionAndAnswer = () => {
-  const rndNum = rndNumFromInt(1, 50);
-
-  const question = `${rndNum}`;
-
-  const expectedAnswer = isEven(rndNum) ? 'yes' : 'no';
-
+  const num = rndNumFromInt(1, 50);
+  const question = `${num}`;
+  const expectedAnswer = isEven(num);
   return [question, expectedAnswer];
 };
 
