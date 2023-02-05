@@ -1,6 +1,6 @@
 ### Tests, linter and Codeclimate status:
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rmanzman/brain-games/hexlet-check.yml)
-![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/rmanzman/brain-games)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d27bba2001166edc4143/maintainability)](https://codeclimate.com/github/rmanzman/brain-games/maintainability)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rmanzman/brain-games)
 
 <h2 align="center">Welcome to the Brain Games!</h2> 
