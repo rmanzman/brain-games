@@ -26,11 +26,10 @@
   },
   "homepage": "https://github.com/rmanzman/brain-games#readme",
   "dependencies": {
-    "make": "^0.8.1",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
-    "eslint": "^8.33.0",
+    "eslint": "^8.44.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5"
   }
