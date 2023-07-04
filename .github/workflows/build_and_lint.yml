@@ -23,7 +23,6 @@ jobs:
       - name: Install dependencies, build the project
         run: |
           npm ci
-          npm run build:prod
 
         env:
           CI: true
