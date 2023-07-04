@@ -1,5 +1,5 @@
 {
-  "name": "@hexlet/code",
+  "name": "@rmanzman/brain-games",
   "version": "1.0.0",
   "description": "Brain Games is a set of five CLI-games",
   "type": "module",
